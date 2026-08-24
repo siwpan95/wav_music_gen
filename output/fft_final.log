@@ -1,0 +1,4 @@
+G:/tools/wav_music_gen/output/vocal_dry.wav: >1k=81.1% >2k=3.5% >3k=0.16% >4k=0.05% >6k=0.02% >8k=0.01% peak=0.890 rms=0.1709
+G:/tools/wav_music_gen/output/vocal_dry_hum.wav: >1k=88.6% >2k=8.9% >3k=0.12% >4k=0.05% >6k=0.02% >8k=0.01% peak=0.890 rms=0.1891
+G:/tools/wav_music_gen/output/vocal_demo.wav: >1k=46.9% >2k=2.6% >3k=0.64% >4k=0.54% >6k=0.47% >8k=0.41% peak=0.900 rms=0.1879
+EXIT=0

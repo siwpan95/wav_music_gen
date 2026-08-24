@@ -1,0 +1,1255 @@
+{
+  "generator": "batch_vocals.py",
+  "files": [
+    {
+      "file": "vocal_001_hum_b86_s202608140000.wav",
+      "idx": 0,
+      "mode": "hum",
+      "bpm": 86,
+      "bars": 4,
+      "scale": "五声大调",
+      "root": "G",
+      "octave": 4,
+      "chord": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140000,
+      "dur_s": 11.38,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:15"
+    },
+    {
+      "file": "vocal_002_vowels_b74_s202608140001.wav",
+      "idx": 1,
+      "mode": "vowels",
+      "bpm": 74,
+      "bars": 6,
+      "scale": "自然小调",
+      "root": "F",
+      "octave": 5,
+      "chord": [
+        1,
+        4,
+        5,
+        1
+      ],
+      "vowels": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "seed": 202608140001,
+      "dur_s": 19.9,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:17"
+    },
+    {
+      "file": "vocal_003_vowels_b83_s202608140002.wav",
+      "idx": 2,
+      "mode": "vowels",
+      "bpm": 83,
+      "bars": 4,
+      "scale": "自然小调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "ah",
+        "o",
+        "a"
+      ],
+      "seed": 202608140002,
+      "dur_s": 11.79,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:43"
+    },
+    {
+      "file": "vocal_004_vowels_b82_s202608140003.wav",
+      "idx": 3,
+      "mode": "vowels",
+      "bpm": 82,
+      "bars": 7,
+      "scale": "五声小调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140003,
+      "dur_s": 21.15,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:45"
+    },
+    {
+      "file": "vocal_005_vowels_b130_s202608140004.wav",
+      "idx": 4,
+      "mode": "vowels",
+      "bpm": 130,
+      "bars": 4,
+      "scale": "自然小调",
+      "root": "F",
+      "octave": 4,
+      "chord": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "vowels": [
+        "u",
+        "o",
+        "a",
+        "ah"
+      ],
+      "seed": 202608140004,
+      "dur_s": 7.6,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:46"
+    },
+    {
+      "file": "vocal_006_vowels_b84_s202608140005.wav",
+      "idx": 5,
+      "mode": "vowels",
+      "bpm": 84,
+      "bars": 4,
+      "scale": "五声大调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "seed": 202608140005,
+      "dur_s": 11.65,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:47"
+    },
+    {
+      "file": "vocal_007_vowels_b131_s202608140006.wav",
+      "idx": 6,
+      "mode": "vowels",
+      "bpm": 131,
+      "bars": 4,
+      "scale": "五声大调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "vowels": [
+        "u",
+        "o",
+        "a",
+        "ah"
+      ],
+      "seed": 202608140006,
+      "dur_s": 7.55,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:48"
+    },
+    {
+      "file": "vocal_008_vowels_b95_s202608140007.wav",
+      "idx": 7,
+      "mode": "vowels",
+      "bpm": 95,
+      "bars": 6,
+      "scale": "五声小调",
+      "root": "E",
+      "octave": 5,
+      "chord": [
+        2,
+        5,
+        3,
+        6
+      ],
+      "vowels": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "seed": 202608140007,
+      "dur_s": 15.6,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:50"
+    },
+    {
+      "file": "vocal_009_vowels_b73_s202608140008.wav",
+      "idx": 8,
+      "mode": "vowels",
+      "bpm": 73,
+      "bars": 7,
+      "scale": "大调",
+      "root": "G",
+      "octave": 4,
+      "chord": [
+        2,
+        5,
+        1,
+        6
+      ],
+      "vowels": [
+        "ah",
+        "e",
+        "o",
+        "u"
+      ],
+      "seed": 202608140008,
+      "dur_s": 23.67,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:52"
+    },
+    {
+      "file": "vocal_010_hum_b82_s202608140009.wav",
+      "idx": 9,
+      "mode": "hum",
+      "bpm": 82,
+      "bars": 5,
+      "scale": "五声小调",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        1,
+        4,
+        5,
+        1
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140009,
+      "dur_s": 15.07,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:53"
+    },
+    {
+      "file": "vocal_011_vowels_b89_s202608140010.wav",
+      "idx": 10,
+      "mode": "vowels",
+      "bpm": 89,
+      "bars": 7,
+      "scale": "自然小调",
+      "root": "G",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "u"
+      ],
+      "seed": 202608140010,
+      "dur_s": 19.54,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:55"
+    },
+    {
+      "file": "vocal_012_hum_b78_s202608140011.wav",
+      "idx": 11,
+      "mode": "hum",
+      "bpm": 78,
+      "bars": 8,
+      "scale": "五声小调",
+      "root": "E",
+      "octave": 5,
+      "chord": [
+        8,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140011,
+      "dur_s": 25.28,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:57"
+    },
+    {
+      "file": "vocal_013_vowels_b100_s202608140012.wav",
+      "idx": 12,
+      "mode": "vowels",
+      "bpm": 100,
+      "bars": 4,
+      "scale": "五声小调",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        1,
+        6,
+        2,
+        4
+      ],
+      "vowels": [
+        "u"
+      ],
+      "seed": 202608140012,
+      "dur_s": 9.82,
+      "peak": 0.89,
+      "created": "2026-08-14 10:59:58"
+    },
+    {
+      "file": "vocal_014_hum_b87_s202608140013.wav",
+      "idx": 13,
+      "mode": "hum",
+      "bpm": 87,
+      "bars": 7,
+      "scale": "多利安",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140013,
+      "dur_s": 19.97,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:00"
+    },
+    {
+      "file": "vocal_015_vowels_b98_s202608140014.wav",
+      "idx": 14,
+      "mode": "vowels",
+      "bpm": 98,
+      "bars": 8,
+      "scale": "五声小调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        4,
+        5,
+        1
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140014,
+      "dur_s": 20.25,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:03"
+    },
+    {
+      "file": "vocal_016_vowels_b125_s202608140015.wav",
+      "idx": 15,
+      "mode": "vowels",
+      "bpm": 125,
+      "bars": 7,
+      "scale": "五声大调",
+      "root": "A",
+      "octave": 4,
+      "chord": [
+        1,
+        6,
+        2,
+        4
+      ],
+      "vowels": [
+        "a"
+      ],
+      "seed": 202608140015,
+      "dur_s": 14.1,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:04"
+    },
+    {
+      "file": "vocal_017_vowels_b124_s202608140016.wav",
+      "idx": 16,
+      "mode": "vowels",
+      "bpm": 124,
+      "bars": 4,
+      "scale": "自然小调",
+      "root": "F",
+      "octave": 4,
+      "chord": [
+        1,
+        7,
+        3,
+        6
+      ],
+      "vowels": [
+        "o"
+      ],
+      "seed": 202608140016,
+      "dur_s": 7.96,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:05"
+    },
+    {
+      "file": "vocal_018_vowels_b83_s202608140017.wav",
+      "idx": 17,
+      "mode": "vowels",
+      "bpm": 83,
+      "bars": 4,
+      "scale": "五声小调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        6,
+        4,
+        1,
+        5
+      ],
+      "vowels": [
+        "u"
+      ],
+      "seed": 202608140017,
+      "dur_s": 11.79,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:06"
+    },
+    {
+      "file": "vocal_019_vowels_b111_s202608140018.wav",
+      "idx": 18,
+      "mode": "vowels",
+      "bpm": 111,
+      "bars": 4,
+      "scale": "五声大调",
+      "root": "B",
+      "octave": 5,
+      "chord": [
+        8,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "a",
+        "a",
+        "i",
+        "a"
+      ],
+      "seed": 202608140018,
+      "dur_s": 8.87,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:07"
+    },
+    {
+      "file": "vocal_020_vowels_b116_s202608140019.wav",
+      "idx": 19,
+      "mode": "vowels",
+      "bpm": 116,
+      "bars": 8,
+      "scale": "五声小调",
+      "root": "G",
+      "octave": 5,
+      "chord": [
+        6,
+        4,
+        1,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140019,
+      "dur_s": 17.21,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:08"
+    },
+    {
+      "file": "vocal_021_hum_b83_s202608140020.wav",
+      "idx": 20,
+      "mode": "hum",
+      "bpm": 83,
+      "bars": 8,
+      "scale": "五声小调",
+      "root": "F",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140020,
+      "dur_s": 23.79,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:11"
+    },
+    {
+      "file": "vocal_022_hum_b71_s202608140021.wav",
+      "idx": 21,
+      "mode": "hum",
+      "bpm": 71,
+      "bars": 4,
+      "scale": "多利安",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        1,
+        6,
+        2,
+        4
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140021,
+      "dur_s": 13.74,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:12"
+    },
+    {
+      "file": "vocal_023_vowels_b108_s202608140022.wav",
+      "idx": 22,
+      "mode": "vowels",
+      "bpm": 108,
+      "bars": 7,
+      "scale": "五声小调",
+      "root": "E",
+      "octave": 5,
+      "chord": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "e",
+        "o",
+        "u"
+      ],
+      "seed": 202608140022,
+      "dur_s": 16.22,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:14"
+    },
+    {
+      "file": "vocal_024_vowels_b78_s202608140023.wav",
+      "idx": 23,
+      "mode": "vowels",
+      "bpm": 78,
+      "bars": 6,
+      "scale": "五声小调",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        2,
+        5,
+        3,
+        6
+      ],
+      "vowels": [
+        "ah",
+        "ah",
+        "o",
+        "a"
+      ],
+      "seed": 202608140023,
+      "dur_s": 18.9,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:16"
+    },
+    {
+      "file": "vocal_025_vowels_b106_s202608140024.wav",
+      "idx": 24,
+      "mode": "vowels",
+      "bpm": 106,
+      "bars": 6,
+      "scale": "五声大调",
+      "root": "D",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "seed": 202608140024,
+      "dur_s": 14.02,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:17"
+    },
+    {
+      "file": "vocal_026_vowels_b126_s202608140025.wav",
+      "idx": 25,
+      "mode": "vowels",
+      "bpm": 126,
+      "bars": 6,
+      "scale": "五声大调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        1,
+        4,
+        5,
+        4
+      ],
+      "vowels": [
+        "ah",
+        "ah",
+        "o",
+        "a"
+      ],
+      "seed": 202608140025,
+      "dur_s": 11.87,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:18"
+    },
+    {
+      "file": "vocal_027_vowels_b101_s202608140026.wav",
+      "idx": 26,
+      "mode": "vowels",
+      "bpm": 101,
+      "bars": 5,
+      "scale": "自然小调",
+      "root": "B",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "u",
+        "o",
+        "a",
+        "ah"
+      ],
+      "seed": 202608140026,
+      "dur_s": 12.32,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:19"
+    },
+    {
+      "file": "vocal_028_vowels_b89_s202608140027.wav",
+      "idx": 27,
+      "mode": "vowels",
+      "bpm": 89,
+      "bars": 5,
+      "scale": "多利安",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        1,
+        7,
+        3,
+        6
+      ],
+      "vowels": [
+        "o"
+      ],
+      "seed": 202608140027,
+      "dur_s": 13.92,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:21"
+    },
+    {
+      "file": "vocal_029_hum_b72_s202608140028.wav",
+      "idx": 28,
+      "mode": "hum",
+      "bpm": 72,
+      "bars": 4,
+      "scale": "大调",
+      "root": "F",
+      "octave": 4,
+      "chord": [
+        1,
+        7,
+        3,
+        6
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140028,
+      "dur_s": 13.55,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:22"
+    },
+    {
+      "file": "vocal_030_vowels_b100_s202608140029.wav",
+      "idx": 29,
+      "mode": "vowels",
+      "bpm": 100,
+      "bars": 8,
+      "scale": "五声大调",
+      "root": "B",
+      "octave": 5,
+      "chord": [
+        6,
+        2,
+        5,
+        1
+      ],
+      "vowels": [
+        "a"
+      ],
+      "seed": 202608140029,
+      "dur_s": 19.86,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:24"
+    },
+    {
+      "file": "vocal_031_vowels_b112_s202608140030.wav",
+      "idx": 30,
+      "mode": "vowels",
+      "bpm": 112,
+      "bars": 8,
+      "scale": "五声大调",
+      "root": "E",
+      "octave": 4,
+      "chord": [
+        2,
+        5,
+        1,
+        6
+      ],
+      "vowels": [
+        "u"
+      ],
+      "seed": 202608140030,
+      "dur_s": 17.8,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:26"
+    },
+    {
+      "file": "vocal_032_hum_b80_s202608140031.wav",
+      "idx": 31,
+      "mode": "hum",
+      "bpm": 80,
+      "bars": 4,
+      "scale": "五声大调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        6,
+        2,
+        5,
+        1
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140031,
+      "dur_s": 12.22,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:27"
+    },
+    {
+      "file": "vocal_033_hum_b77_s202608140032.wav",
+      "idx": 32,
+      "mode": "hum",
+      "bpm": 77,
+      "bars": 4,
+      "scale": "五声小调",
+      "root": "F",
+      "octave": 4,
+      "chord": [
+        1,
+        4,
+        5,
+        1
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140032,
+      "dur_s": 12.69,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:29"
+    },
+    {
+      "file": "vocal_034_vowels_b114_s202608140033.wav",
+      "idx": 33,
+      "mode": "vowels",
+      "bpm": 114,
+      "bars": 6,
+      "scale": "自然小调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "e",
+        "o",
+        "u"
+      ],
+      "seed": 202608140033,
+      "dur_s": 13.07,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:30"
+    },
+    {
+      "file": "vocal_035_vowels_b115_s202608140034.wav",
+      "idx": 34,
+      "mode": "vowels",
+      "bpm": 115,
+      "bars": 4,
+      "scale": "五声小调",
+      "root": "B",
+      "octave": 4,
+      "chord": [
+        6,
+        4,
+        1,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140034,
+      "dur_s": 8.57,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:31"
+    },
+    {
+      "file": "vocal_036_vowels_b106_s202608140035.wav",
+      "idx": 35,
+      "mode": "vowels",
+      "bpm": 106,
+      "bars": 5,
+      "scale": "多利安",
+      "root": "A",
+      "octave": 5,
+      "chord": [
+        1,
+        4,
+        5,
+        4
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140035,
+      "dur_s": 11.76,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:32"
+    },
+    {
+      "file": "vocal_037_vowels_b107_s202608140036.wav",
+      "idx": 36,
+      "mode": "vowels",
+      "bpm": 107,
+      "bars": 7,
+      "scale": "自然小调",
+      "root": "E",
+      "octave": 5,
+      "chord": [
+        1,
+        6,
+        2,
+        4
+      ],
+      "vowels": [
+        "a",
+        "a",
+        "i",
+        "a"
+      ],
+      "seed": 202608140036,
+      "dur_s": 16.36,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:34"
+    },
+    {
+      "file": "vocal_038_vowels_b90_s202608140037.wav",
+      "idx": 37,
+      "mode": "vowels",
+      "bpm": 90,
+      "bars": 8,
+      "scale": "五声小调",
+      "root": "G",
+      "octave": 4,
+      "chord": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "vowels": [
+        "ah",
+        "ah",
+        "o",
+        "a"
+      ],
+      "seed": 202608140037,
+      "dur_s": 21.99,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:36"
+    },
+    {
+      "file": "vocal_039_hum_b84_s202608140038.wav",
+      "idx": 38,
+      "mode": "hum",
+      "bpm": 84,
+      "bars": 8,
+      "scale": "自然小调",
+      "root": "B",
+      "octave": 4,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140038,
+      "dur_s": 23.52,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:38"
+    },
+    {
+      "file": "vocal_040_hum_b87_s202608140039.wav",
+      "idx": 39,
+      "mode": "hum",
+      "bpm": 87,
+      "bars": 5,
+      "scale": "五声小调",
+      "root": "F",
+      "octave": 5,
+      "chord": [
+        8,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140039,
+      "dur_s": 14.23,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:40"
+    },
+    {
+      "file": "vocal_041_vowels_b106_s202608140040.wav",
+      "idx": 40,
+      "mode": "vowels",
+      "bpm": 106,
+      "bars": 6,
+      "scale": "五声小调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        1,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "ah"
+      ],
+      "seed": 202608140040,
+      "dur_s": 14.02,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:41"
+    },
+    {
+      "file": "vocal_042_vowels_b119_s202608140041.wav",
+      "idx": 41,
+      "mode": "vowels",
+      "bpm": 119,
+      "bars": 7,
+      "scale": "自然小调",
+      "root": "C",
+      "octave": 4,
+      "chord": [
+        6,
+        4,
+        1,
+        5
+      ],
+      "vowels": [
+        "ah"
+      ],
+      "seed": 202608140041,
+      "dur_s": 14.78,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:42"
+    },
+    {
+      "file": "vocal_043_vowels_b78_s202608140042.wav",
+      "idx": 42,
+      "mode": "vowels",
+      "bpm": 78,
+      "bars": 4,
+      "scale": "五声小调",
+      "root": "B",
+      "octave": 5,
+      "chord": [
+        1,
+        5,
+        6,
+        4
+      ],
+      "vowels": [
+        "u"
+      ],
+      "seed": 202608140042,
+      "dur_s": 12.53,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:44"
+    },
+    {
+      "file": "vocal_044_vowels_b124_s202608140043.wav",
+      "idx": 43,
+      "mode": "vowels",
+      "bpm": 124,
+      "bars": 4,
+      "scale": "自然小调",
+      "root": "F",
+      "octave": 4,
+      "chord": [
+        1,
+        7,
+        3,
+        6
+      ],
+      "vowels": [
+        "ah",
+        "o",
+        "a",
+        "u"
+      ],
+      "seed": 202608140043,
+      "dur_s": 7.96,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:45"
+    },
+    {
+      "file": "vocal_045_vowels_b117_s202608140044.wav",
+      "idx": 44,
+      "mode": "vowels",
+      "bpm": 117,
+      "bars": 5,
+      "scale": "五声小调",
+      "root": "B",
+      "octave": 5,
+      "chord": [
+        2,
+        5,
+        3,
+        6
+      ],
+      "vowels": [
+        "o"
+      ],
+      "seed": 202608140044,
+      "dur_s": 10.7,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:46"
+    },
+    {
+      "file": "vocal_046_hum_b84_s202608140045.wav",
+      "idx": 45,
+      "mode": "hum",
+      "bpm": 84,
+      "bars": 6,
+      "scale": "五声小调",
+      "root": "G",
+      "octave": 4,
+      "chord": [
+        1,
+        7,
+        3,
+        6
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140045,
+      "dur_s": 17.58,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:47"
+    },
+    {
+      "file": "vocal_047_vowels_b111_s202608140046.wav",
+      "idx": 46,
+      "mode": "vowels",
+      "bpm": 111,
+      "bars": 5,
+      "scale": "五声大调",
+      "root": "F",
+      "octave": 5,
+      "chord": [
+        2,
+        5,
+        1,
+        6
+      ],
+      "vowels": [
+        "a"
+      ],
+      "seed": 202608140046,
+      "dur_s": 11.25,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:49"
+    },
+    {
+      "file": "vocal_048_vowels_b124_s202608140047.wav",
+      "idx": 47,
+      "mode": "vowels",
+      "bpm": 124,
+      "bars": 8,
+      "scale": "五声大调",
+      "root": "A",
+      "octave": 4,
+      "chord": [
+        1,
+        5,
+        6,
+        3,
+        4,
+        1,
+        4,
+        5
+      ],
+      "vowels": [
+        "a",
+        "a",
+        "i",
+        "a"
+      ],
+      "seed": 202608140047,
+      "dur_s": 16.14,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:50"
+    },
+    {
+      "file": "vocal_049_vowels_b97_s202608140048.wav",
+      "idx": 48,
+      "mode": "vowels",
+      "bpm": 97,
+      "bars": 5,
+      "scale": "自然小调",
+      "root": "C",
+      "octave": 5,
+      "chord": [
+        1,
+        4,
+        5,
+        1
+      ],
+      "vowels": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "seed": 202608140048,
+      "dur_s": 12.81,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:51"
+    },
+    {
+      "file": "vocal_050_hum_b77_s202608140049.wav",
+      "idx": 49,
+      "mode": "hum",
+      "bpm": 77,
+      "bars": 6,
+      "scale": "多利安",
+      "root": "E",
+      "octave": 5,
+      "chord": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "vowels": [
+        "m"
+      ],
+      "seed": 202608140049,
+      "dur_s": 19.14,
+      "peak": 0.89,
+      "created": "2026-08-14 11:00:53"
+    }
+  ]
+}

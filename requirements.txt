@@ -1,0 +1,3 @@
+# wav_music_gen dependencies (auto-generated 2026-08-20)
+numpy
+torch

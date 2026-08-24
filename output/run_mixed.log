@@ -1,0 +1,5 @@
+=== AutoWav 人声合成演示（干声优先）===
+[demo] 旋律 40 音，换气 3 处，乐句元音 ['ah', 'o', 'a', 'u']
+  ✓ WAV 文件已保存: G:\tools\wav_music_gen\output\vocal_demo.wav
+[mixed_demo] 20.66s peak=0.900 rms=0.1879 hf6k_ratio=0.0923
+[done] ALL_OK mode=mixed
