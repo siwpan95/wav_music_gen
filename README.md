@@ -1,5 +1,7 @@
 # AutoWav — 随机 WAV 音乐生成器
 
+> 仓库：<https://gitee.com/siwpan/wav_music_gen> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 纯 Python 标准库实现，零外部依赖的 WAV 音乐生成器。
 
 ## 功能
