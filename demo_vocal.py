@@ -1,7 +1,7 @@
 """
 demo_vocal.py — 人声合成演示（干声优先）
 
-产出（G:\\tools\\wav_music_gen\\output\\）：
+产出（本仓 output/ 目录，即 autowav.OUTPUT_DIR）：
   1. vocal_dry.wav       —— ★ 纯人声干声：元音吟唱（无伴奏、无混响），乐句间换气
   2. vocal_dry_hum.wav   —— ★ 纯人声干声：闭口哼鸣（全 "m"，更闷更"人"）
   3. vocal_demo.wav      —— 参考：升级音色后的混音版（伴奏+人声）
