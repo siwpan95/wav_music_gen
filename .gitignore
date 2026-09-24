@@ -6,3 +6,6 @@ build/
 dist/
 # 运行产物/缓存（2026-09-23 移出版本控制）
 output/
+# Python 缓存（2026-09-23 补齐）
+__pycache__/
+*.pyc

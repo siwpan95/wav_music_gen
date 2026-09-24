@@ -11,6 +11,14 @@ demo_vocal.py — 人声合成演示（干声优先）
 """
 import os
 import sys
+
+# 2026-09-23 修复：中文 Windows 控制台默认 GBK，脚本里的 ✓ 等字符会导致
+# UnicodeEncodeError 直接崩（exit 1）。统一把 stdout/stderr 切到 UTF-8。
+for _s in ("stdout", "stderr"):
+    try:
+        getattr(sys, _s).reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):   # 非交互/被重定向的旧环境
+        pass
 import math
 import random
 
