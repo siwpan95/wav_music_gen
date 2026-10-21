@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wav_music_gen"
+version = "1.0.0"
+description = "纯标准库 WAV 音乐生成器（零依赖，含 Tkinter GUI）"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [{ name = "siwpan" }]
+keywords = ["music", "wav", "generator", "synthesis", "markov", "midi"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://gitee.com/siwpan/wav_music_gen"
+Repository = "https://gitee.com/siwpan/wav_music_gen"
+Changelog = "https://gitee.com/siwpan/wav_music_gen/blob/master/CHANGELOG.md"
+
+[tool.setuptools]
+py-modules = [
+    "autowav", "backend", "backends_acestep", "batch_vocals", "demo_vocal",
+    "download_models", "effects", "form", "gui", "melody", "midi_io",
+    "score", "synthesis", "theory", "vocal_formant",
+]

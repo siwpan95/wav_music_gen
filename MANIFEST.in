@@ -1,0 +1,11 @@
+prune .venv
+prune dist
+prune build
+prune release
+prune __pycache__
+prune output
+prune models
+global-exclude *.pyc
+global-exclude *.wav
+global-exclude *.gz
+global-exclude *.md
