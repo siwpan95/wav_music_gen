@@ -136,7 +136,7 @@ class GeneratorBackend(ABC):
 |----|------|
 | 零依赖引擎升级（Phase 1） | ✅ 立即可做，无新依赖，风险最低、收益最高 |
 | MIDI 桥（Phase 2.2） | ✅ 纯 stdlib，高价值，建议同批做 |
-| 神经后端（Phase 2.1） | ⚠️ 需 GPU 12–24GB + PyTorch + 模型 10–50GB；你本机 `F:\Python314` 为嵌入式 3.14，**无 venv/ensurepip**，且 GPU 情况未知。建议先确认硬件再立项，且严格懒加载 |
+| 神经后端（Phase 2.1） | ⚠️ 需 GPU 12–24GB + PyTorch + 模型 10–50GB；你本机 `/Python314` 为嵌入式 3.14，**无 venv/ensurepip**，且 GPU 情况未知。建议先确认硬件再立项，且严格懒加载 |
 | 跨项目（Phase 3） | ✅ 复用已有 `audio_separator`，成本低 |
 
 **结论**：短期（本周可落地）聚焦 **Phase 0 + Phase 1 + Phase 2.2（MIDI 桥）**——全是零依赖、可验证、不破坏现有能力。神经后端作为**有硬件条件时的可选增强**，绝不进核心路径。
@@ -173,7 +173,7 @@ class GeneratorBackend(ABC):
 **关键约束落地情况：**
 - 「零依赖优先」硬约束：全部新模块仅用标准库；神经后端为可选懒加载旁路，未安装时绝不报错崩溃。
 - **本机无达标显卡 + 沙箱不可达 HuggingFace**：开源神经权重**在本机既下载不到、也跑不了**。因此模型下载做成可迁移脚本（留待有显卡机器执行），未在本机灌入死重。
-- **嵌入式 Python 陷阱修复**：本机 `F:\Python314` 运行脚本时 `sys.path[0]` 为 `python314.zip` 而非脚本目录，已在 `autowav.py` 顶部加 `sys.path` 引导，确保本地模块可导入。
+- **嵌入式 Python 陷阱修复**：本机 `/Python314` 运行脚本时 `sys.path[0]` 为 `python314.zip` 而非脚本目录，已在 `autowav.py` 顶部加 `sys.path` 引导，确保本地模块可导入。
 
 **新增文件：** `backend.py` `midi_io.py` `score.py` `backends_acestep.py` `download_models.py`
 **修改文件：** `autowav.py`（导入引导 + 符号采集 + MIDI/评分/种子/后端接线）、`melody.py`（`generate_chord_blocks` 保留 onset 供 MIDI 精确定位）

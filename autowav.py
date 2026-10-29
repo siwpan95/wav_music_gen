@@ -7,7 +7,7 @@
 import os
 import sys
 
-# 路径引导：嵌入式 Python（如本机 F:\Python314）运行脚本时不会自动把
+# 路径引导：嵌入式 Python（如本机 /Python314）运行脚本时不会自动把
 # 脚本所在目录加入 sys.path[0]，需手动加入，确保同目录的本地模块可被导入。
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 if _SCRIPT_DIR not in sys.path:
